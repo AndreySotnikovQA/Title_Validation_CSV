@@ -19,6 +19,11 @@ public class Selenium_csv {
 		String url = null;
 		String title_expected = null;
 		
+		
+		
+		
+		
+		
 			
 		br = new BufferedReader(new FileReader(csvFile));
 		
